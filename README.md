@@ -54,4 +54,4 @@ Just swap `CollideAndMultiply-TotalChaos.js` with one of the other filenames and
 
 ---
 
-_Made for fun while learning animations._
+_hmm... animations are fun._
