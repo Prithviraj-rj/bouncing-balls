@@ -2,9 +2,8 @@
 
 Just some simple bouncing ball animations I made while getting my hands dirty with basic physics and HTML5 Canvas.
 
-<video controls src="media/20260327-2251-35.1047710.mp4" title="CollideAndMultiply-TotalChaos.js"></video>
-
-_CollideAndMultiply-TotalChaos.js ☝️_
+_CollideAndMultiply-TotalChaos.js 👇👇_
+![alt text](media/20260328-0057-57.7481090.gif)
 
 ## No Libraries, Just Math
 
@@ -23,13 +22,12 @@ There are three scripts you can play with:
 ### 1. `simpleBounce.js`
 
 The most basic one. A single ball bouncing straight up and down.
-
-<video controls src="media/20260327-2311-53.5323240.mp4" title="Title"></video>
+![alt text](media/20260328-0053-39.5335807.gif)
 
 ### 2. `gravitylike-2D-Bounce.js`
 
 An attempt to add horizontal movement and gravity. It includes energy loss, so the ball eventually stops bouncing.
-<video controls width="400" height="400" src="media/20260327-2307-42.8945020.mp4" title="Title"></video>
+![alt text](media/20260328-0055-02.3876746.gif)
 
 ### 3. `CollideAndMultiply-TotalChaos.js`
 
